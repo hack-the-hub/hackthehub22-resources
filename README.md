@@ -11,11 +11,18 @@ IBM Watson API - conversation, language, sentiment and advanced text analytics -
 Open AI API - https://beta.openai.com/examples
 A complete list of public APIs you can use https://github.com/public-apis/public-apis
 A complete list of machine learning public AIs you can use https://github.com/public-apis/public-apis#machine-learning
+A curated list of machine learning frameworks, libraries and software - https://github.com/josephmisiti/awesome-machine-learning
 
 # Text Analytical Tools
 
 # Tools for Testing APIs
 Postman
+
+# Development Environments
+PyCharm
+Visual Code
+Intellij Ultimate
+Juypter
 
 
 # Areas To Explore
@@ -31,3 +38,6 @@ Postman
 - deep learning
 
 # Industry Open Data
+
+Additional Resources:
+https://beamers.github.io/resources.html
