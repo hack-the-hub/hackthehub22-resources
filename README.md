@@ -1,6 +1,18 @@
 # hackthehub22-resources
 
 # The Challenge
+Best Application Use of Data & AI
+
+# Judging Criteria
+- Design & Implementation: Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? 
+
+Innovation: How innovative / creative / unique is the idea? Was there a novel approach applied to solve the problem?
+
+Technical Complexity: Is the project technically impressive? Complex?
+
+Social Impact: How impactful is the idea? Can it impact the lives of many people in a significant way?
+
+Commercial Viability: Is there business potential? 
 
 # Data Science Resources
 https://github.com/academic/awesome-datascience - includes data science algorithms to use, tutorials, free courses, tools, machine learning libraries, visualisation tools, youtube channels
