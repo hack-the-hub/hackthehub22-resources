@@ -4,7 +4,7 @@
 Best Application Use of Data & AI
 
 # Judging Criteria
-- Design & Implementation: Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? 
+Design & Implementation: Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? 
 
 Innovation: How innovative / creative / unique is the idea? Was there a novel approach applied to solve the problem?
 
