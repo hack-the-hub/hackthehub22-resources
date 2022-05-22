@@ -2,6 +2,11 @@
 
 # The Challenge
 
+# Data Science Resources
+https://github.com/academic/awesome-datascience - includes data science algorithms to use, tutorials, free courses, tools, machine learning libraries, visualisation tools, youtube channels
+
+https://github.com/josephmisiti/awesome-machine-learning - includes machine learning libraries
+
 # Publically Available Datasets
 We listed below some publicly available data sets that represent collections of unstructured text data that you can use. You are not restricted to using these datasets: feel free to come to work with your own data!
 
@@ -34,8 +39,11 @@ Juypter
 - personalised ml chat apps
 - natural language processing
 - sentiment analysis
+- GPT3
+- Computer Vision
 - neural networks
 - deep learning
+
 
 # Industry Open Data
 
